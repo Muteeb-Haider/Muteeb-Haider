@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I’m Muteeb Haider!
 
-<!--
-**Muteeb-Haider/Muteeb-Haider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate Computer Science student with a love for coding and building robust web applications.  
+My journey in tech is fueled by curiosity and creativity, and I enjoy turning ideas into reality.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- JavaScript
+- Java
+- C
+- Laravel
+- React
+- HTML & CSS
+- Bootstrap & Tailwind CSS
+- SQLite
+
+
+## 🌟 Featured Project
+
+### Laravel LMS (Learning Management System)
+
+A comprehensive LMS built with Laravel and SQLite, designed for both teachers and students.
+
+**Key Features:**
+- Role-based authentication (Teachers & Students)
+- Subject and task management for teachers
+- Enrollment and solution submission for students
+- Responsive UI using Bootstrap or Tailwind CSS
+- Validation, soft deletes, and more
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/muteeb-haider-6bb73b2b2/ 
+
+## ⚡ Fun Fact
+
+Coding is not just my profession—it's my hobby!  
+I enjoy exploring new technologies, participating in hackathons, and collaborating with peers on exciting projects.
+
+![Muteeb Haider's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muteeb-Haider&show_icons=true&theme=radical)

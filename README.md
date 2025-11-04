@@ -31,7 +31,7 @@ A comprehensive LMS built with Laravel and SQLite, designed for both teachers an
 
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/muteeb-haider-6bb73b2b2/ 
+LinkedIn: https://www.linkedin.com/in/muteeb-haider-cs
 
 ## ⚡ Fun Fact
 

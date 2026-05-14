@@ -41,6 +41,13 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ### Tools & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -51,6 +58,18 @@
 ---
 
 ## 🌟 Featured Projects
+
+### 🫁 [Lung Cancer Detection — Thesis Project](https://github.com/Muteeb-Haider/lung-cancer-detection-thesis)
+> A web-based ML/DL application for detecting lung cancer from CT scan images, built as an **ELTE thesis project** with a clean three-layer architecture (UI / Business Logic / Data Access Layer).
+
+- **98.82% accuracy** using SVM, Logistic Regression, Random Forest, and CNN models
+- Streamlit web app with single prediction, model comparison, and confidence scoring
+- Clean architecture: strict separation between UI, BL, and DAL layers
+- SQLite prediction history, timestamped model versioning, and pytest test suite
+
+**Stack:** `Python` `TensorFlow` `scikit-learn` `Keras` `Streamlit` `OpenCV` `SQLite`
+
+---
 
 ### 📡 [UDP Reliable File Transfer (Go-Back-N)](https://github.com/Muteeb-Haider/udp-reliable-transfer)
 > A high-performance, production-ready file transfer solution implementing reliable UDP with the **Go-Back-N sliding window protocol**.

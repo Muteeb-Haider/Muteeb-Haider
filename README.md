@@ -135,11 +135,12 @@
 
 <div align="center">
 
-![Muteeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muteeb-Haider&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muteeb-Haider&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Muteeb-Haider&theme=radical&hide_border=true)
+
+![Muteeb's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muteeb-Haider&theme=radical)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muteeb-Haider&theme=radical)
+![Most Committed](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muteeb-Haider&theme=radical)
 
 </div>
 
